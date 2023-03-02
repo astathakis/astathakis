@@ -4,7 +4,7 @@ i am tasos
 
 ## skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,bootstrap,git,github,figma,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,bootstrap,git,github,figma,vite,netlify,postman,wordpress)](https://skillicons.dev)
 
 <!--
 **astathakis/astathakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
