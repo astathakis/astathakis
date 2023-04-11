@@ -4,7 +4,7 @@ i am tasos
 
 linkedin: https://www.linkedin.com/in/tasos-stathakis
 
-resume: https://flowcv.com/resume/drfi0jkijm
+resume:https://flowcv.com/resume/drfi0jkijm
 
 ## skills
 
