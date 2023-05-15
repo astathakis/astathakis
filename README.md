@@ -6,6 +6,8 @@ linkedin: https://www.linkedin.com/in/tasos-stathakis
 
 resume: https://flowcv.com/resume/drfi0jkijm
 
+portfolio: https://stathakis-portfolio.netlify.app/
+
 ## skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,bootstrap,vscode,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,visualstudio,eclipse,linux&perline=12)](https://skillicons.dev)
