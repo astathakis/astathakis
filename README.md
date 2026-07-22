@@ -14,6 +14,11 @@ portfolio: https://stathakis-portfolio.netlify.app/
 
 -->
 
+<!--
+[![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,react,nextjs,nodejs,mongodb,docker,aws )](https://skillicons.dev)
+
+-->
+
 https://skillicons.dev/icons?theme=dark&i=ts,react,nextjs,nodejs,mongodb,docker,aws 
 
 <!--
