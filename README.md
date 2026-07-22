@@ -9,7 +9,7 @@ portfolio: https://stathakis-portfolio.netlify.app/ -->
 **Bachelor of Science in Computer Science**  
 London Metropolitan University
 
-**MSc in Computer Games Technology** 
+**MSc in Computer Games Technology** <br>
 Abertay Dundee University
 
 **PGCertificate in Computer Games Programming** 
