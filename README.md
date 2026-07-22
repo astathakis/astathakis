@@ -1,8 +1,4 @@
 
-<!--
-resume: https://flowcv.com/resume/drfi0jkijm
-
-portfolio: https://stathakis-portfolio.netlify.app/ -->
 
 ## Education
 
@@ -15,19 +11,23 @@ Abertay Dundee University
 **PGCertificate in Computer Games Programming** <br>
 Westminister University
 
-# miscellaneous
-
-**Member of the British Computer Society**
-
-linkedin: https://www.linkedin.com/in/tasos-stathakis
-
-
-
 
 
 ## skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nodejs,express,mongodb,mysql,postgres,sqlite,aws,docker,bootstrap,tailwind,vscode,idea,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,py,visualstudio,eclipse,anaconda,kali,ubuntu,linux&perline=12)](https://skillicons.dev)
+
+
+### miscellaneous
+
+**Member of the British Computer Society**
+
+linkedin: https://www.linkedin.com/in/tasos-stathakis
+
+<!--
+resume: https://flowcv.com/resume/drfi0jkijm
+
+portfolio: https://stathakis-portfolio.netlify.app/ -->
 
 
 
