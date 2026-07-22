@@ -15,11 +15,9 @@ Westminister University
 
 ## skills
 
-<h4> 
-
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nodejs,express,mongodb,mysql,postgres,sqlite,aws,docker,bootstrap,tailwind,vscode,idea,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,py,visualstudio,eclipse,anaconda,kali,ubuntu,linux&perline=12)](https://skillicons.dev)
 
-</h4>
+
 
 ## miscellaneous
 
