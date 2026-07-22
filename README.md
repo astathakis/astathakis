@@ -14,7 +14,7 @@ portfolio: https://stathakis-portfolio.netlify.app/
 
 -->
 
-<!-- https://skillicons.dev/icons?theme=dark&i=ts,react,nextjs,nodejs,mongodb,docker,aws -->
+https://skillicons.dev/icons?theme=dark&i=ts,react,nextjs,nodejs,mongodb,docker,aws 
 
 <!--
 **astathakis/astathakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
