@@ -1,18 +1,23 @@
 ### miscellaneous
 
 linkedin: https://www.linkedin.com/in/tasos-stathakis
-
+<!--
 resume: https://flowcv.com/resume/drfi0jkijm
 
-portfolio: https://stathakis-portfolio.netlify.app/
+portfolio: https://stathakis-portfolio.netlify.app/ -->
 
 ## Education
 
 **Bachelor of Science in Computer Science**  
 London Metropolitan University
 
-PGCertificate in Computer Games Technology** 
+**PGCertificate in Computer Games Technology** 
 Abertay Dundee University
+
+**PGCertificate in Computer Games Programming** 
+Westminister University
+
+**Member of the British Computer Society**
 
 
 ## skills
