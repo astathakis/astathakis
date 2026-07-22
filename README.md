@@ -10,7 +10,7 @@ portfolio: https://stathakis-portfolio.netlify.app/
 
 ## skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,nodejs,express,mongodb,aws,docker,bootstrap,vscode,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,visualstudio,eclipse,linux&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nodejs,express,mongodb,aws,docker,bootstrap,vscode,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,visualstudio,eclipse,linux&perline=12)](https://skillicons.dev)
 
 
 
