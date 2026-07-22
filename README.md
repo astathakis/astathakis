@@ -15,7 +15,8 @@ Abertay Dundee University
 **PGCertificate in Computer Games Programming** 
 Westminister University
 
-### miscellaneous
+## miscellaneous
+
 **Member of the British Computer Society**
 
 linkedin: https://www.linkedin.com/in/tasos-stathakis
