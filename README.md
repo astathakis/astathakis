@@ -1,6 +1,4 @@
-### miscellaneous
 
-linkedin: https://www.linkedin.com/in/tasos-stathakis
 <!--
 resume: https://flowcv.com/resume/drfi0jkijm
 
@@ -17,7 +15,13 @@ Abertay Dundee University
 **PGCertificate in Computer Games Programming** 
 Westminister University
 
+### miscellaneous
 **Member of the British Computer Society**
+
+linkedin: https://www.linkedin.com/in/tasos-stathakis
+
+
+
 
 
 ## skills
