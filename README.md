@@ -12,7 +12,7 @@ London Metropolitan University
 **MSc in Computer Games Technology** <br>
 Abertay Dundee University
 
-**PGCertificate in Computer Games Programming** 
+**PGCertificate in Computer Games Programming** <br>
 Westminister University
 
 ## miscellaneous
