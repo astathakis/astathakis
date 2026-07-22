@@ -6,7 +6,7 @@ portfolio: https://stathakis-portfolio.netlify.app/ -->
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
+**BSc in Computer Science**  
 London Metropolitan University
 
 **MSc in Computer Games Technology** <br>
@@ -15,7 +15,7 @@ Abertay Dundee University
 **PGCertificate in Computer Games Programming** <br>
 Westminister University
 
-## miscellaneous
+# miscellaneous
 
 **Member of the British Computer Society**
 
