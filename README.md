@@ -9,17 +9,12 @@ resume: https://flowcv.com/resume/drfi0jkijm
 portfolio: https://stathakis-portfolio.netlify.app/
 
 ## skills
-<!--
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,nodejs,express,mongodb,bootstrap,vscode,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,visualstudio,eclipse,linux&perline=12)](https://skillicons.dev)
 
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,nodejs,express,mongodb,aws,docker,bootstrap,vscode,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,visualstudio,eclipse,linux&perline=12)](https://skillicons.dev)
 
-<!--
-[![My Skills](https://skillicons.dev/icons?theme=dark&i=ts,react,nextjs,nodejs,mongodb,docker,aws )](https://skillicons.dev)
 
--->
 
-https://skillicons.dev/icons?theme=dark&i=ts,react,nextjs,nodejs,mongodb,docker,aws 
+
 
 <!--
 **astathakis/astathakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
