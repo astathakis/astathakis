@@ -1,6 +1,4 @@
-### Hi there 👋
-
-i am tasos
+### miscellaneous
 
 linkedin: https://www.linkedin.com/in/tasos-stathakis
 
@@ -8,12 +6,13 @@ resume: https://flowcv.com/resume/drfi0jkijm
 
 portfolio: https://stathakis-portfolio.netlify.app/
 
-## 🎓 Education
-
-<img src="C:\Users\User\Documents\london-metropolitan-university-seeklogo.png" width="80" />
+## Education
 
 **Bachelor of Science in Computer Science**  
 London Metropolitan University
+
+PGCertificate in Computer Games Technology** 
+Abertay Dundee University
 
 
 ## skills
