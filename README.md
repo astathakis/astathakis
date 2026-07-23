@@ -1,7 +1,4 @@
 
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg" />
           
 
 ## Education
