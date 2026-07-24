@@ -54,8 +54,7 @@ linkedin: https://www.linkedin.com/in/tasos-stathakis
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clarity/clarity-plain-wordmark.svg" />
-          
+
 
 
 <!--
