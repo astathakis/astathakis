@@ -20,10 +20,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg" width=40px  hspace="5"/>
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width=40px  hspace="5" />
+
    
-   <i class="devicon-netlify-plain colored"></i>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width=40px  hspace="5" />
           
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=40px  hspace="5" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width=40px  hspace="5" />
           
+                           
           
                        
                                               
@@ -39,8 +45,57 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=40px  hspace="5"/>  
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width=40px  hspace="5" />
+  
+ 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" width=40px  hspace="5" />
+
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/passport/passport-original-wordmark.svg" width=40px  hspace="5" />
+          
+          
+          
           
             
+</p>
+
+<p align="left">
+
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" width=40px  hspace="5" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pug/pug-original.svg" width=40px  hspace="5" />
+
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=40px  hspace="5" />
+
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width=40px  hspace="5" />
+          
+
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=40px  hspace="5" />
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width=40px  hspace="5" />
+
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width=40px  hspace="5" />
+          
+          
+         
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width=40px  hspace="5" />
+
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width=40px  hspace="5" />
+
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=40px  hspace="5" />
+          
+          
+           
+          
+          
+          
+  
 </p>
  
           
