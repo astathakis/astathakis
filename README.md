@@ -204,7 +204,7 @@ Westminister University
 -->
 
 
-## miscellaneous
+## Professional Memberships
 
 **Member of the British Computer Society**
 
