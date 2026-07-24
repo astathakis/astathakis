@@ -72,7 +72,10 @@
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width=40px  hspace="5" /> 
           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40px  hspace="5" />           
+   
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original-wordmark.svg" width=40px  hspace="5" />
+          
           
             
 </p>
@@ -169,7 +172,7 @@
           
           
                
-          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40px  hspace="5" />       
           
             
           
@@ -194,11 +197,11 @@ Westminister University
 
 
 
-
+<!--
 ## skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nodejs,express,mongodb,mysql,postgres,sqlite,aws,docker,bootstrap,tailwind,vscode,idea,git,github,figma,ai,vite,netlify,postman,matlab,java,cpp,py,visualstudio,eclipse,anaconda,kali,ubuntu,linux&perline=12)](https://skillicons.dev)
-
+-->
 
 
 ## miscellaneous
