@@ -206,7 +206,7 @@ Westminister University
 
 ## Professional Memberships
 
-**Member of the British Computer Society**
+**The British Computer Society**
 
 **Google Developer Group**
 
