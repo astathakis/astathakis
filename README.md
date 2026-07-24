@@ -208,6 +208,8 @@ Westminister University
 
 **Member of the British Computer Society**
 
+**Game Developers Association of Greece**
+
 linkedin: https://www.linkedin.com/in/tasos-stathakis
 
 
