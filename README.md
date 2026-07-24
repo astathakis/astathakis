@@ -10,7 +10,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width=40px  hspace="5" />
           
-      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width=40px  hspace="5" />  
   
               
           
@@ -72,7 +72,7 @@
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width=40px  hspace="5" /> 
           
-                 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40px  hspace="5" />           
           
             
 </p>
@@ -111,7 +111,7 @@
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=40px  hspace="5" />
           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width=40px  hspace="5" />
+  
           
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width=40px  hspace="5" />
            
@@ -119,7 +119,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" width=40px  hspace="5" />
                
        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40px  hspace="5" />
+  
              
           
   
