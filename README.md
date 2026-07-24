@@ -89,6 +89,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width=40px  hspace="5" />
           
 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original-wordmark.svg" width=40px  hspace="5" />
+          
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=40px  hspace="5" />
    
@@ -108,9 +110,15 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=40px  hspace="5" />
           
           
+          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width=40px  hspace="5" />
            
-          
-          
+     
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" width=40px  hspace="5" />
+               
+       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=40px  hspace="5" />
+             
           
   
 </p>
