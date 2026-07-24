@@ -53,7 +53,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/passport/passport-original-wordmark.svg" width=40px  hspace="5" />
           
           
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40px  hspace="5" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width=40px  hspace="5" />
+
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-plain.svg" width=40px  hspace="5" />
+
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width=40px  hspace="5" />
+
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width=40px  hspace="5" />
           
+          
+          
+          
+                 
           
             
 </p>
@@ -92,6 +109,21 @@
           
           
            
+          
+          
+          
+  
+</p>
+
+<p align='left'>
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width=40px  hspace="5"  />
+
+ 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width=40px  hspace="5" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-plain.svg" width=40px  hspace="5" />
           
           
           
