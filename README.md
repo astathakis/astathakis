@@ -192,7 +192,7 @@ London Metropolitan University
 Abertay Dundee University
 
 **PGCertificate in Computer Games Programming** <br>
-Westminister University
+University of Westminister
 
 
 
