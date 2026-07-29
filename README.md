@@ -179,7 +179,9 @@
  
     -->      
           
-          
+
+
+Software Architect and Full-Stack Engineer focused on designing scalable web applications, interactive systems, and modern digital platforms. Experienced with Angular, React, Next.js, TypeScript, Node.js, and cloud-ready architectures, with a strong emphasis on clean code, reusable components, performance optimization, and maintainable solutions. Passionate about exploring emerging technologies, AI-driven applications, and game development, combining software engineering principles with creativity to build engaging and reliable experiences.          
 
 ## Education
 
