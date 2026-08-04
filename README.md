@@ -181,7 +181,7 @@
           
 
 
-Software Engineer with experience in web development, game development, and computer science education. Experienced in designing and building scalable web applications, interactive systems, and modern digital platforms using Angular, React, Next.js, TypeScript, and Node.js. Strong foundation in software architecture, clean code, reusable components, performance optimization, and maintainable solutions. Academic Lead for an undergraduate Modern Computer Science programme, with experience in curriculum development, mentoring students, and translating complex technical concepts into practical learning experiences. Passionate about emerging technologies, AI-driven applications, and game development, combining software engineering principles with creativity to build reliable and engaging digital experiences.        
+Software Engineer specializing in web development, game development, and computer science education. Skilled in designing and building scalable web applications, interactive systems, and modern digital platforms using Angular, React, Next.js, TypeScript, and Node.js. Strong foundation in software architecture, clean code, reusable components, performance optimization, and maintainable solutions. Academic Lead for an undergraduate Modern Computer Science programme, contributing to curriculum development, student mentoring, and translating complex technical concepts into practical learning experiences. Passionate about emerging technologies, AI-driven applications, and game development, combining software engineering principles with creativity to build reliable and engaging digital experiences.      
 
 ## Education
 
