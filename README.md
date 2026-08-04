@@ -181,7 +181,7 @@
           
 
 
-Software Architect and Full-Stack Engineer focused on designing scalable web applications, interactive systems, and modern digital platforms. Experienced with Angular, React, Next.js, TypeScript, Node.js, and cloud-ready architectures, with a strong emphasis on clean code, reusable components, performance optimization, and maintainable solutions. Passionate about exploring emerging technologies, AI-driven applications, and game development, combining software engineering principles with creativity to build engaging and reliable experiences.          
+Software Engineer with experience in web development, game development, and computer science education. Experienced in designing and building scalable web applications, interactive systems, and modern digital platforms using Angular, React, Next.js, TypeScript, and Node.js. Strong foundation in software architecture, clean code, reusable components, performance optimization, and maintainable solutions. Academic Lead for an undergraduate Modern Computer Science programme, with experience in curriculum development, mentoring students, and translating complex technical concepts into practical learning experiences. Passionate about emerging technologies, AI-driven applications, and game development, combining software engineering principles with creativity to build reliable and engaging digital experiences.        
 
 ## Education
 
